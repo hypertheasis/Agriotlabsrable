@@ -1,0 +1,7 @@
+{
+  "name": "AgriotLab",
+  "content_in_root": false,
+  "domains": ["agriotlab"],
+  "iot_class": "Cloud Polling",
+  "render_readme": true
+}

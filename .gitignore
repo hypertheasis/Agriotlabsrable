@@ -1,0 +1,19 @@
+# Γενικοί κανόνες παράβλεψης αρχείων για έργα Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.cache/
+.env
+.venv
+venv/
+env/
+.vscode/
+.idea/
+# Εξαιρούνται αρχεία δημιουργημένα από το Home Assistant ή runtime
+home-assistant.log
+home-assistant_v2.db
+# Παράβλεψη αρχείων zip/backup
+*.zip
+*.tar.gz

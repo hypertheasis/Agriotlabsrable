@@ -1,0 +1,7 @@
+{
+    "temperature": {"value": 26.0, "unit": "°C"},
+    "precipitation": {"value": 1.2, "unit": "mm"},
+    "et0": {"value": 3.0, "unit": "mm"},
+    "evapotranspiration": {"value": 2.8, "unit": "mm"},
+    "soil_moisture": {"value": 0.25, "unit": "m³/m³"}
+}
